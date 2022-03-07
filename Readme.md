@@ -9,4 +9,5 @@ upperlower - 대소문자 변환<br>
 Rock Paper Scissors - 가위 바위 보<br>
 Fibonacci - 피보나치수열 <br>
 Word In Sentence - 문장 속 단어찾기<br>
-Word filp - 단어 뒤집기<br>
+Word flip - 단어 뒤집기<br>
+Word flip2 - 특정 문자 뒤집기<br>
