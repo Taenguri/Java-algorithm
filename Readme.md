@@ -11,3 +11,4 @@ Fibonacci - 피보나치수열 <br>
 Word In Sentence - 문장 속 단어찾기<br>
 Word flip - 단어 뒤집기<br>
 Remove duplicate char - 중복 문자 제거<br>
+decimal - 소수<br>
