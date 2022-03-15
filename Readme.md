@@ -15,3 +15,4 @@ decimal - 소수<br>
 Large number - 큰 수 출력<br>
 only number - 숫자만 출력<br>
 reverse decimal - 소수 뒤집기<br>
+getRank - 등수 구하기<br>
