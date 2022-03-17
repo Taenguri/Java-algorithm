@@ -18,3 +18,6 @@ reverse decimal - 소수 뒤집기<br>
 getRank - 등수 구하기<br>
 Selection sort - 선택정렬<br>
 palindrome1 - 팰린드롬1<br>
+order by height - 보이는 학생<br>
+
+
