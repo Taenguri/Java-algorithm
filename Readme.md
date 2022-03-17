@@ -17,4 +17,4 @@ only number - 숫자만 출력<br>
 reverse decimal - 소수 뒤집기<br>
 getRank - 등수 구하기<br>
 Selection sort - 선택정렬<br>
-Recovery String - 회복 문자열<br>
+palindrome1 - 팰린드롬1<br>
