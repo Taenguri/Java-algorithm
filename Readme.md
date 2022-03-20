@@ -20,6 +20,7 @@ Selection sort - 선택정렬<br>
 palindrome1 - 팰린드롬1<br>
 order by height - 보이는 학생<br>
 Calc_Score - 점수계산<br>
+word_distance - 가장 짧은 문자거리<br>
 
 
 
